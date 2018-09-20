@@ -1,0 +1,3 @@
+shopserver\Controller\FeignOrderController.class
+shopserver\shopApplication.class
+shopserver\Feign\OrderFeign.class

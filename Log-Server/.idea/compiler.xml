@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="common-module" />
+        <module name="Log-Center" />
+        <module name="Order-Server" />
+        <module name="shop-register-center" />
+        <module name="Shop-Server" />
+        <module name="Show-Log" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="common-module" target="1.5" />
+      <module name="Log-Center" target="1.8" />
+      <module name="Log-Server" target="1.8" />
+      <module name="Order-Server" target="1.8" />
+      <module name="shop-register-center" target="1.8" />
+      <module name="Shop-Server" target="1.8" />
+      <module name="Show-Log" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
